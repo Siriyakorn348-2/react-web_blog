@@ -1,0 +1,110 @@
+{
+    "message": "All posts retrieved successfully",
+    "posts": [
+        {
+            "_id": "67003ed6856a223c52a255ca",
+            "title": "My First Blog Post",
+            "description": "This is a description of my first blog post.",
+            "content": {
+                "time": 1721189849868,
+                "blocks": [
+                    {
+                        "id": "1",
+                        "type": "paragraph",
+                        "data": {
+                            "text": "This is the content of my first blog post."
+                        }
+                    }
+                ]
+            },
+            "coverImg": "https://f.ptcdn.info/829/035/000/1443263365-DSC0463-o.jpg",
+            "category": "lunch",
+            "author": {
+                "_id": "67003af6026d880b306120cb",
+                "email": "user5@gmail.com"
+            },
+            "rating": 5,
+            "createdAt": "2024-10-04T19:15:34.787Z",
+            "__v": 0
+        },
+        {
+            "_id": "6700396d24582481ffddf135",
+            "title": "Test Blog 5",
+            "description": "Test 3s",
+            "content": {
+                "time": 1721189849868,
+                "blocks": {
+                    "id": "LdFAdzzfle",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "lololoollollollol"
+                    }
+                }
+            },
+            "coverImg": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+            "category": "lunch",
+            "author": {
+                "_id": "670029deda143ec17af6875d",
+                "email": "user3@gmail.com"
+            },
+            "rating": 4,
+            "createdAt": "2024-10-04T18:52:29.532Z",
+            "__v": 0
+        },
+        {
+            "_id": "67003710572192a3d3dec616",
+            "title": "Test Blog 4",
+            "description": "Test 3s",
+            "content": {
+                "time": 1721189849868,
+                "blocks": {
+                    "id": "LdFAdzzfle",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "lololoollollollol"
+                    }
+                }
+            },
+            "coverImg": "https://f.ptcdn.info/829/035/000/1443263365-DSC0463-o.jpg",
+            "category": "lunch",
+            "author": {
+                "_id": "670029deda143ec17af6875d",
+                "email": "user3@gmail.com"
+            },
+            "rating": 4,
+            "createdAt": "2024-10-04T18:42:24.383Z",
+            "__v": 0
+        },
+        {
+            "_id": "670031fb784cf7b8a14dc826",
+            "title": "Test Blog 3",
+            "description": "Test 3s",
+            "content": {
+                "time": 1721189849868,
+                "blocks": {
+                    "id": "LdFAdzzfle",
+                    "type": "paragraph",
+                    "data": {
+                        "text": "lllllllllxlxll"
+                    }
+                }
+            },
+            "coverImg": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+            "category": "lunch",
+            "author": null,
+            "rating": 4,
+            "createdAt": "2024-10-04T18:20:43.913Z",
+            "__v": 0
+        },
+        {
+            "_id": "66ffaadc5f7b29d10be62965",
+            "title": "Test Blog 1",
+            "description": "Tesr 1s",
+            "content": "Blog .....",
+            "category": "breakfast",
+            "rating": 4,
+            "createdAt": "2024-10-04T08:44:12.766Z",
+            "__v": 0
+        }
+    ]
+}
